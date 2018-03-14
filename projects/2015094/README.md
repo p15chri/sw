@@ -10,9 +10,9 @@
 
 ### Link για το εκτελέσιμο του κώδικα: https://github.com/viktoriakal/D3js-uk-political-donations/tree/gh-pages
 
-![picture](pic1.PNG)
+![picture](pic1.png)
 
-![picture](pic2.PNG)
+![picture](pic2.png)
 
 
 
