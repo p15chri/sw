@@ -7,7 +7,7 @@
 
 ## Παραδοτέο 1
 ### Link για το αποθετήριο του κώδικα: https://github.com/p15chri/D3js-uk-political-donations/tree/gh-pages
-### Link για το εκτελέσιμο του κώδικα: https://p15chri.github.io/D3js-uk-political-donations/
+### Link για το εκτελέσιμο του κώδικα: https://p15chri2.github.io/D3js-uk-political-donations/
 
 ![picture](Capture1.PNG)
 
